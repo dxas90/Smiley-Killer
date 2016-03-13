@@ -48,3 +48,8 @@ Para el desarrollo de esta aplicación he precisado el siguiente software:
 - Gimp: edición de imágenes. 
 - Audacity: edición de sonidos. 
 - Blender: edición 3D. 
+
+### Repositorio
+- *ARcuia*: proyecto en Unity
+- *doc*: documentación (la mayor parte está incluida en el README.md)
+- *ARcuiaGame.apk*: aplicación
